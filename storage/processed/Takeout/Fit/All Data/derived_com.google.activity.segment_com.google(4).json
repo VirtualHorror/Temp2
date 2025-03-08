@@ -1,0 +1,12 @@
+{
+    "Data Source": "derived:com.google.activity.segment:com.google.android.gms:session_activity_segment",
+    "Data Points": [
+        {"fitValue":[{"value":{"intVal":1}}],"originDataSourceId":"derived:com.google.activity.segment:com.noisefit:session_activity_segment","endTimeNanos":1679974629000000000,"dataTypeName":"com.google.activity.segment","startTimeNanos":1679973446000000000,"modifiedTimeMillis":1679980263201,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"intVal":1}}],"originDataSourceId":"derived:com.google.activity.segment:com.noisefit:session_activity_segment","endTimeNanos":1680320266000000000,"dataTypeName":"com.google.activity.segment","startTimeNanos":1680318040000000000,"modifiedTimeMillis":1680340958274,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"intVal":1}}],"originDataSourceId":"derived:com.google.activity.segment:com.noisefit:session_activity_segment","endTimeNanos":1680327261000000000,"dataTypeName":"com.google.activity.segment","startTimeNanos":1680322360000000000,"modifiedTimeMillis":1680340958274,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"intVal":1}}],"originDataSourceId":"derived:com.google.activity.segment:com.noisefit:session_activity_segment","endTimeNanos":1680579153000000000,"dataTypeName":"com.google.activity.segment","startTimeNanos":1680578326000000000,"modifiedTimeMillis":1680595637676,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"intVal":1}}],"originDataSourceId":"derived:com.google.activity.segment:com.noisefit:session_activity_segment","endTimeNanos":1680751339000000000,"dataTypeName":"com.google.activity.segment","startTimeNanos":1680749598000000000,"modifiedTimeMillis":1680800170094,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"intVal":1}}],"originDataSourceId":"derived:com.google.activity.segment:com.noisefit:session_activity_segment","endTimeNanos":1682396076000000000,"dataTypeName":"com.google.activity.segment","startTimeNanos":1682395210000000000,"modifiedTimeMillis":1684901795014,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"intVal":1}}],"originDataSourceId":"derived:com.google.activity.segment:com.noisefit:session_activity_segment","endTimeNanos":1733878252000000000,"dataTypeName":"com.google.activity.segment","startTimeNanos":1733876948000000000,"modifiedTimeMillis":1733881945716,"rawTimestampNanos":0}
+    ]
+}

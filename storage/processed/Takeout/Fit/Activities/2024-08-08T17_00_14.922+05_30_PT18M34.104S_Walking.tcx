@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase
+    xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2"
+    xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2"
+    xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2"
+    xmlns:ns4="http://www.garmin.com/xmlschemas/ProfileExtension/v1"
+    xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd">
+    <Activities>
+        <Activity Sport="Walking">
+            <Id>2024-08-08T11:30:14.922Z</Id>
+            <Lap StartTime="2024-08-08T11:30:14.922Z">
+                <Track>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2024-08-08T11:30:14.922Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>0.0</DistanceMeters>
+                        <Time>2024-08-08T11:30:41.366Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>22.488258948157362</DistanceMeters>
+                        <Time>2024-08-08T11:31:55.366Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>91.77640813977735</DistanceMeters>
+                        <Time>2024-08-08T11:33:31.124Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>160.30476641088606</DistanceMeters>
+                        <Time>2024-08-08T11:34:28.912Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>231.22180680243724</DistanceMeters>
+                        <Time>2024-08-08T11:35:41.416Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>301.72553755882245</DistanceMeters>
+                        <Time>2024-08-08T11:39:03.698Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>307.4383386872344</DistanceMeters>
+                        <Time>2024-08-08T11:39:07.686Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>352.36606911930596</DistanceMeters>
+                        <Time>2024-08-08T11:40:21.332Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>369.38421102601967</DistanceMeters>
+                        <Time>2024-08-08T11:44:19.066Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>403.42049483944703</DistanceMeters>
+                        <Time>2024-08-08T11:46:11.066Z</Time>
+                    </Trackpoint>
+                    <Trackpoint>
+                        <DistanceMeters>448.39701273576173</DistanceMeters>
+                        <Time>2024-08-08T11:48:49.026Z</Time>
+                    </Trackpoint>
+                </Track>
+                <DistanceMeters>448.39701273576173</DistanceMeters>
+                <TotalTimeSeconds>1114.104</TotalTimeSeconds>
+                <Calories>62.32792933333332</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+        </Activity>
+    </Activities>
+    <Author xsi:type="Application_t">
+        <Name>Google Fit</Name>
+        <Build>
+            <Version>
+                <VersionMajor>0</VersionMajor>
+                <VersionMinor>0</VersionMinor>
+                <BuildMajor>0</BuildMajor>
+                <BuildMinor>0</BuildMinor>
+            </Version>
+        </Build>
+        <LangID>en</LangID>
+        <PartNumber>000-00000-00</PartNumber>
+    </Author>
+</TrainingCenterDatabase>
